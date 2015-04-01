@@ -6,7 +6,7 @@ AUTHOR = u'Thomas Barclay'
 SITENAME = (u'K2 Microlensing Workshop, May 2015')
 SITEURL = ''
 
-THEME = "/Users/tom/websites/K2MicrolensingWorkshop/pelican-themes/gum"
+THEME = "./pelican-themes/gum"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
@@ -45,16 +45,16 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
 #    ('Home', '/index.html'),
-    ('Venue', '/venue'),
-    ('Agenda', '/agenda'),
-    ('Call-in Information', '/callin'),
+    ('Venue', '/Venue'),
+    ('Agenda', '/Agenda'),
+    ('Call-in Information', '/Callin'),
 )
 
 PAGE_URL = "{slug}/"

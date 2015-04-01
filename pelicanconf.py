@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
 SITENAME = (u'K2 Microlensing Workshop, May 2015')
-SITEURL = ''
+SITEURL = 'mrtommyb.github.io/K2MicrolensingWorkshop'
 
 THEME = "./pelican-themes/gum"
 
@@ -52,9 +52,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
 #    ('Home', '/index.html'),
-    ('Venue', 'K2MicrolensingWorkshop/Venue'),
-    ('Agenda', 'K2MicrolensingWorkshop/Agenda'),
-    ('Call-in Information', 'K2MicrolensingWorkshop/Callin'),
+    ('Venue', '/Venue'),
+    ('Agenda', '/Agenda'),
+    ('Call-in Information', '/Callin'),
 )
 
 PAGE_URL = "{slug}/"

@@ -26,6 +26,6 @@ DELETE_OUTPUT_DIRECTORY = False
 MENUITEMS = (
 #    ('Home', '/index.html'),
     ('Venue', '/K2MicrolensingWorkshop/Venue'),
-    ('Agenda', 'K2MicrolensingWorkshop/Agenda'),
+    ('Agenda', '/K2MicrolensingWorkshop/Agenda'),
     ('Call-in Information', '/K2MicrolensingWorkshop/Callin'),
 )

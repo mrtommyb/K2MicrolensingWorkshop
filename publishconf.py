@@ -10,8 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://mrtommyb.github.io/K2MicrolensingWorkshop'
-RELATIVE_URLS = True
+SITEURL = '/K2MicrolensingWorkshop'
+RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -25,7 +25,7 @@ DELETE_OUTPUT_DIRECTORY = False
 
 MENUITEMS = (
 #    ('Home', '/index.html'),
-    ('Venue', '/K2MicrolensingWorkshop/Venue'),
-    ('Agenda', '/K2MicrolensingWorkshop/Agenda'),
-    ('Call-in Information', '/K2MicrolensingWorkshop/Callin'),
+    ('Venue', '/Venue'),
+    ('Agenda', '/Agenda'),
+    ('Call-in Information', '/Callin'),
 )

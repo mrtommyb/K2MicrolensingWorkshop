@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = u'K2 Microlensing Workshop'
+SITENAME = (u'K2 Microlensing Workshop, May 2015')
 SITEURL = ''
 
-THEME = "/Users/tom/websites/K2MicrolensingWorkshop/tom-theme/gum"
+THEME = "/Users/tom/websites/K2MicrolensingWorkshop/pelican-themes/gum"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
@@ -51,7 +51,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Workshop', '/index.html'),
+#    ('Home', '/index.html'),
     ('Venue', '/venue'),
     ('Agenda', '/agenda'),
     ('Call-in Information', '/callin'),

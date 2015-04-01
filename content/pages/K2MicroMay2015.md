@@ -2,11 +2,14 @@ Title: Motivation for this workshop
 Date: 2015-03-31
 sortorder: 1
 pageorder: 1
-Category: Workshop
-Slug: Workshop
+Category: Home
+Slug: Home
 save_as: index.html
 
+<img style="float: right" src="http://keplerscience.arc.nasa.gov/K2/images/CampaignFields/K2_community_resource.jpg" width="450" height="300">
 The [NASA K2 mission](http://keplerscience.arc.nasa.gov/K2/) makes use of the Kepler spacecraft to expand upon Kepler's groundbreaking discoveries in the fields of exoplanets and astrophysics through new and exciting observations. K2 uses an innovative way of operating the spacecraft by carefully balancing the pressure of photons coming from the Sun. The K2 mission offers long-term, simultaneous optical observation of thousands of objects at high precision. 
+
+
 
 The K2 observation plan is to execute [standalone campaigns](http://keplerscience.arc.nasa.gov/K2/Fields.shtml) lasting approximately 75 days. [Campaign 9](http://keplerscience.arc.nasa.gov/K2/Fields.shtml#9) will begin in April, 2016 and will observe a region of the sky in the direction of the Galactic bulge. Campaign 9 will differ from every previous campaign because (a) it will be dedicated to the detection of gravitational microlensing events and (b) the spacecraft boresight will point toward the direction of motion.
 

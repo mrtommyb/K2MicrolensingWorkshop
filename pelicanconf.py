@@ -6,7 +6,7 @@ AUTHOR = u'Thomas Barclay'
 SITENAME = u'K2 Microlensing Workshop'
 SITEURL = ''
 
-THEME = "tom-theme//gum/"
+THEME = "/Users/tom/websites/K2MicrolensingWorkshop/tom-theme/gum"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''

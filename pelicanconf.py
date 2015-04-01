@@ -52,9 +52,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
 #    ('Home', '/index.html'),
-    ('Venue', '/Venue'),
-    ('Agenda', '/Agenda'),
-    ('Call-in Information', '/Callin'),
+    ('Venue', 'K2MicrolensingWorkshop/Venue'),
+    ('Agenda', 'K2MicrolensingWorkshop/Agenda'),
+    ('Call-in Information', 'K2MicrolensingWorkshop/Callin'),
 )
 
 PAGE_URL = "{slug}/"

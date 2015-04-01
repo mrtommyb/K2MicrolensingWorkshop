@@ -15,6 +15,7 @@ Thursday, May 7
 * 12.00pm Lunch
 
 * 1.30pm - 4.30pm Contributed talks
+
 ---  
   
 

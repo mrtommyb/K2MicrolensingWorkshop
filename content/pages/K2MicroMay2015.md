@@ -26,10 +26,10 @@ To apply to attend the workshop either in-person on virtually you will need to f
 
 ----
 
-[Venue and Date](venue)
+[Venue and Date](/Venue)
 ----
 
-The meeting will be held in building N-232 at NASA Ames Research Center, in Mountain View, California on May 7-8, 2015.
+The meeting will be held in building N-232 at NASA Ames Research Center, in Mountain View, California on May 7-8, 2015. We are intending to have available limited facilities for [calling into the workshop](/Callin). 
 
 
 

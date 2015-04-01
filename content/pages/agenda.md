@@ -6,7 +6,7 @@ Category: Agenda
 Slug: Agenda
 
 Thursday, May 7
-===============
+----
 * 9.00am Welcome
 * 9.15am NASA HQ
 * 10.00am Project Scientist
@@ -15,7 +15,7 @@ Thursday, May 7
   
 
 Friday, May 8
-====
+----
 * 12.00pm Closing
 
 

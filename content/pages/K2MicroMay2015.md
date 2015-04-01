@@ -17,14 +17,14 @@ The purpose of this workshop is to discuss plans for the K2 microlensing experim
 ----
 
 Application and Registration
-========
+----
 
 To apply to attend the workshop either in-person on virtually you will need to fill in [the application form](http://goo.gl/forms/ESGRMC8vOJ). The deadline for applying to attend is April 17, 2015 at 4.00pm PST.
 
 ----
 
 [Venue and Date](venue)
-========
+----
 
 The meeting will be held in building N-232 at NASA Ames Research Center, in Mountain View, California on May 7-8, 2015.
 

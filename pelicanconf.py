@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = u'NASA K2 Microlensing Workshop'
+SITENAME = u'K2 Microlensing Workshop'
 SITEURL = ''
 
-THEME = "pelican-themes/pelican-bootstrap3/"
+THEME = "/Users/tom/websites/K2MicrolensingWorkshop/pelican-themes/gum/"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''

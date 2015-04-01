@@ -6,7 +6,7 @@ AUTHOR = u'Thomas Barclay'
 SITENAME = u'NASA K2 Microlensing Workshop'
 SITEURL = ''
 
-THEME = "pelican-themes/subtle"
+THEME = "pelican-themes/subtle/"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''

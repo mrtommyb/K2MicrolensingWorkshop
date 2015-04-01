@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Thomas Barclay'
 SITENAME = (u'K2 Microlensing Workshop, May 2015')
-SITEURL = 'mrtommyb.github.io/K2MicrolensingWorkshop'
+SITEURL = '/K2MicrolensingWorkshop'
 
 THEME = "./pelican-themes/gum"
 
@@ -45,7 +45,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False

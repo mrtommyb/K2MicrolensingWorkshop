@@ -10,6 +10,7 @@ THEME = "./tom-themes/gum"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 TYPOGRIFY = True
 

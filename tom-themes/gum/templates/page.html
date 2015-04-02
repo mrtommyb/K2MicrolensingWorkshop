@@ -6,4 +6,19 @@
     {{ translations.translations_for(page) }}
 
     {{ page.content }}
+
+{% endblock %}
+
+
+{% block footer %}
+
+<div id="footer">
+<div id="footerLeft"><a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/theme/images/common/nasa-logo.png" border="100" width="80" height="80"  alt="NASA Logo"></a> </div>
+<div id="footerCenter">Last modified: {{ page.locale_date }}<br />            
+</div>
+<div id="footerRight">
+                    Editor: Thomas Barclay<br />
+                    NASA Official: Jessie Dotson</div>
+</div>
+
 {% endblock %}

@@ -7082,6 +7082,11 @@ div.buttons .primary {
   }
 }
 
+#footerLeft { width: 25%; float: left; display: block; 100px;}
+#footerCenter { width: 29%; float: left; display: block; height: 100px;}
+#footerRight { width: 45%; float: right; display: block; height: 100px;}
+#footer { width: 100%; height: 100% width: 980px; }
+
 footer#credits .socbtns {
   float: right;
 }

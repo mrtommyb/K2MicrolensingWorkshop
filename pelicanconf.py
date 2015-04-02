@@ -55,7 +55,7 @@ MENUITEMS = (
     ('Venue', '/Venue'),
     ('Agenda', '/Agenda'),
     ('Call-in Information', '/Callin'),
-    ('Appliation and Registration', '/Apply'),
+    ('Application and Registration', '/Apply'),
 )
 
 PAGE_URL = "{slug}/"

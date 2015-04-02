@@ -6,7 +6,7 @@ AUTHOR = u'Thomas Barclay'
 SITENAME = (u'K2 Microlensing Workshop, May 2015')
 SITEURL = '/K2MicrolensingWorkshop'
 
-THEME = "./pelican-themes/gum"
+THEME = "./tom-themes/gum"
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
@@ -55,6 +55,7 @@ MENUITEMS = (
     ('Venue', '/Venue'),
     ('Agenda', '/Agenda'),
     ('Call-in Information', '/Callin'),
+    ('Appliation and Registration', '/Apply'),
 )
 
 PAGE_URL = "{slug}/"

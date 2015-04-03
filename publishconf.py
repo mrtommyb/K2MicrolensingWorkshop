@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = '/K2MicrolensingWorkshop'
+SITEURL = 'http://keplerscience.arc.nasa.gov/K2/K2MicrolensingWorkshop'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

@@ -12,13 +12,34 @@
 
 {% block footer %}
 
-<div id="footer">
-<div id="footerLeft"><a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/theme/images/common/nasa-logo.png" border="100" width="80" height="80"  alt="NASA Logo"></a> </div>
-<div id="footerCenter">Last modified: {{ page.locale_date }}<br />            
-</div>
-<div id="footerRight">
-                    Editor: Thomas Barclay<br />
-                    NASA Official: Jessie Dotson</div>
+<div id="container4">
+	<div id="container3">
+		<div id="container2">
+			<div id="container1">
+				<div id="col1">
+					<!-- Column one start -->
+					<a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/theme/images/common/nasa-logo.png" border="100" width="80" height="80"  alt="NASA Logo"></a> 
+					<!-- Column one end -->
+				</div>
+				<div id="col2">
+					<!-- Column two start -->
+					Last modified <br/>{{ page.locale_date }}
+					<!-- Column two end -->
+				</div>
+				<div id="col3">
+					<!-- Column three start -->
+				Editor: Thomas Barclay
+                    <br />NASA Official: Jessie Dotson
+					<!-- Column three end -->
+				</div>
+				<div id="col4">
+					<!-- Column four start -->
+					<a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a>
+					<!-- Column four end -->
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 {% endblock %}

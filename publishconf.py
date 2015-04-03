@@ -13,8 +13,8 @@ from pelicanconf import *
 SITEURL = 'http://keplerscience.arc.nasa.gov/K2/K2MicrolensingWorkshop'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -27,6 +27,6 @@ MENUITEMS = (
 #    ('Home', '/index.html'),
     ('Venue', '/K2MicrolensingWorkshop/Venue'),
     ('Agenda', '/K2MicrolensingWorkshop/Agenda'),
-    ('Call-in Information', '/K2MicrolensingWorkshop/Callin'),
+    ('Virtual Attendance', '/K2MicrolensingWorkshop/Callin'),
     ('Appliation and Registration', '/K2MicrolensingWorkshop/Apply'),
 )

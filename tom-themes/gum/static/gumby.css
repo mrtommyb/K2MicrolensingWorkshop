@@ -7134,10 +7134,10 @@ div.buttons .primary {
   overflow:hidden;
 }
 #col4 {
-  float:right;
+  float:left;
   width:20%;
   position:relative;
-  left:50%;
+  left:70%;
   overflow:visible; 
 }
 

@@ -9,7 +9,7 @@ save_as: index.html
 
 * The NASA K2 mission is sponsoring a 1.5-day workshop on the topic of the K2 Microlensing Experiment.
 * This workshop will begin at 9.00am PST on Thursday May 7 and end at 12.00pm PST on Friday May 8, 2015.
-* The [venue will be building N-232 at NASA Ames Research Center](/K2MicrolensingWorkshop/Venue), in Mountain View, California. We are intending to have available limited facilities for [calling into the workshop](/K2MicrolensingWorkshop/Callin). 
+* The [venue will be building N-232 at NASA Ames Research Center](/K2MicrolensingWorkshop/Venue), in Mountain View, California. We are intending to have available limited facilities for [virtual participation](/K2MicrolensingWorkshop/Callin). 
 * To [apply to attend the workshop](/K2MicrolensingWorkshop/Apply) either in-person or virtually you will need to fill in [the application form](http://goo.gl/forms/ESGRMC8vOJ). The deadline for applying to attend is April 17, 2015 at 4.00pm PST. A NASA visitor badge is required to attend in person and will be provided only to registered participants.
 
 ---
@@ -38,7 +38,7 @@ To support Campaign 9 activities, in the K2 Cycle 3 GO Call for Proposals [avail
 Organizing Committee
 ----
 * Thomas Barclay - K2 Guest Observer Office Director
-* Steve B Howell - K2 Project Scientist
+* Steve B. Howell - K2 Project Scientist
 * Mark Messersmith - K2 Business Office Administration / Project Specialist
 
 

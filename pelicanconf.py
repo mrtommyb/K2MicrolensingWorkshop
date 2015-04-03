@@ -55,7 +55,7 @@ MENUITEMS = (
 #    ('Home', '/index.html'),
     ('Venue', '/Venue'),
     ('Agenda', '/Agenda'),
-    ('Call-in Information', '/Callin'),
+    ('Virtual Attendance', '/Callin'),
     ('Application and Registration', '/Apply'),
 )
 

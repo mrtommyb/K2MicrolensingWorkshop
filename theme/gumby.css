@@ -7138,7 +7138,7 @@ div.buttons .primary {
   width:20%;
   position:relative;
   left:70%;
-  overflow:visible; 
+  overflow:hidden; 
 }
 
 footer#credits .socbtns {

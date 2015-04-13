@@ -28,5 +28,5 @@ MENUITEMS = (
     ('Venue', '/K2MicrolensingWorkshop/Venue'),
     ('Agenda', '/K2MicrolensingWorkshop/Agenda'),
     ('Virtual Attendance', '/K2MicrolensingWorkshop/Callin'),
-    ('Appliation and Registration', '/K2MicrolensingWorkshop/Apply'),
+    ('Application and Registration', '/K2MicrolensingWorkshop/Apply'),
 )

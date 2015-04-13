@@ -1,4 +1,4 @@
-Title: NASA Ames Research Center
+Title: SETI Institute
 Date: 2015-04-02
 sortorder: 2
 pageorder: 2

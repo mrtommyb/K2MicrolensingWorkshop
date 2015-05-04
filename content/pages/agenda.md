@@ -1,5 +1,5 @@
-Title: Draft Agenda
-Date: 2015-05-01
+Title: Agenda
+Date: 2015-05-04
 sortorder: 1
 pageorder: 1
 Category: Agenda
@@ -20,7 +20,7 @@ Thursday, May 7
 * 2.00pm **K2FOP: Supporting follow-up observations for K2** - *Rachel Akeson* and *David Ciardi* (NASA Exoplanet Science Institute)
 * 2.40pm Break
 * 3.10pm **Optimizing K2 field using OGLE data** - *Radoslaw Poleski* (Ohio State University)
-* 3.40pm *David Bennett* (Notre Dame)
+* 3.40pm **Photometry for the K2 Microlensing Survey: A New Self-calibration Problem** - *David Bennett* (Notre Dame)
 * 4.10pm **Early Success with Difference Imaging on K2 Crowded Fields** / **The prospects for DECam-K2 observations** - *Matthew Penny* (Ohio State University)
 * 4.50pm **Announcements, Overnight Thinking Points, etc.** - *Steve Howell* (NASA Ames)
 

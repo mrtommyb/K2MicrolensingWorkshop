@@ -30,7 +30,7 @@ Thursday, May 7
 Friday, May 8
 ----
 * 8.50am Arrival, coffee and snacks
-* 9.10am **Characterizing Host Stars of Planetary Systems Detected by the K2 Campaign 9 Microlensing Survey** - *Calen B. Henderson* (Ohio State University)
+* 9.10am **The Importance of Near-infrared Observations: Simultaneous with K2's Campaign 9 and High-resolution Follow-up** - *Calen B. Henderson* (Ohio State University)
 * 9.30 **Spitzer as microlens parallax satellite: binary event OGLE-2014-BLG-1050** - *Wei Zhu* (Ohio State University)
 * 9.50am Break
 * 10.05am - 11.40pm **Round-table discussion on the path forward** - led by *Rachel Street* (LCOGT)
